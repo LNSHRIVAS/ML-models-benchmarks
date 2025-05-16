@@ -115,7 +115,7 @@ This project serves as a practical guideline for choosing the right compute plat
 
 ## GitHub Repository Submission
 
-GitHub Repository: https://github.com/<your-username>/<your-repo-name>
+GitHub Repository: (https://github.com/LNSHRIVAS/ML-models-benchmarks)
 
 This repository contains all relevant `.ipynb` notebooks, performance logs, and summary results. The link is also included in the final project PDF submitted per course requirements.
 
